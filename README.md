@@ -1,3 +1,6 @@
+👋 Hi, I'm Gaurav
+🚀 Aspiring Software Engineer | 💻 Java + MERN Stack | 🧠 DSA Enthusiast
+
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Gaurav-8530&show_icons=true&theme=tokyonight&hide_border=true)
@@ -38,3 +41,9 @@
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)
+
+## 📫 Contact Me
+
+📧 Email: [gauravsharma850332@gmail.com](mailto:your-email@gmail.com)  
+🔗 LinkedIn: https://linkedin.com/in/Gaurav kumar 
+🔗 GitHub: https://github.com/Gaurav-8530
