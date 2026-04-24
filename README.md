@@ -45,5 +45,5 @@
 ## 📫 Contact Me
 
 📧 Email: [gauravsharma850332@gmail.com](mailto:your-email@gmail.com)  
-🔗 LinkedIn: https://linkedin.com/in/Gaurav kumar 
+🔗 LinkedIn: https://linkedin.com/in/Gauravkumar
 🔗 GitHub: https://github.com/Gaurav-8530
