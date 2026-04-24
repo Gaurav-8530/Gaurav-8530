@@ -1,4 +1,5 @@
 👋 Hi, I'm Gaurav
+
 🚀 Aspiring Software Engineer | 💻 Java + MERN Stack | 🧠 DSA Enthusiast
 
 ## 📊 GitHub Stats
@@ -45,5 +46,5 @@
 ## 📫 Contact Me
 
 📧 Email: [gauravsharma850332@gmail.com](mailto:your-email@gmail.com)  
-🔗 LinkedIn: https://linkedin.com/in/Gauravkumar
+🔗 LinkedIn: [https://linkedin.com/in/Gauravkumar](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
 🔗 GitHub: https://github.com/Gaurav-8530
