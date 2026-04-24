@@ -6,15 +6,15 @@
 
 📊 GitHub Stats
 
-"Stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+"Stats" (https://github-readme-stats.vercel.app/api?username=Gaurav-8530&show_icons=true&theme=tokyonight&hide_border=true)
 
 <br>🔥 Contribution Streak
 
-"Streak" (https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+"Streak" (https://github-readme-streak-stats.herokuapp.com?user=Gaurav-8530&theme=tokyonight&hide_border=true)
 
 <br>🚀 Most Used Languages
 
-"Top Langs" (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+"Top Langs" (https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-8530&layout=compact&theme=tokyonight&hide_border=true)
 
 <br>🛠️ Technologies and Tools
 
@@ -32,13 +32,15 @@
 "MongoDB" (https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 "MySQL" (https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 "Postman" (https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+"Hoppscotch" (https://img.shields.io/badge/Hoppscotch-green?style=for-the-badge&logo=hoppscotch)
+"EJS" (https://img.shields.io/badge/EJS-black?style=for-the-badge)
+"EJS-Mate" (https://img.shields.io/badge/EJS--Mate-grey?style=for-the-badge)
+"Render" (https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render)
 "Git" (https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 "GitHub" (https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 "VS Code" (https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)
-"Netlify" (https://img.shields.io/badge/Netlify-teal?style=for-the-badge&logo=netlify)
 
 <br>📫 Connect With Me
 
-🔗 GitHub: https://github.com/YOUR_USERNAME
-🔗 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-🔗 LeetCode: https://leetcode.com/YOUR_USERNAME
+🔗 GitHub: https://github.com/Gaurav-8530
+
